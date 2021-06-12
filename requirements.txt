@@ -1,0 +1,10 @@
+asn1crypto==1.4.0
+bit==0.7.2
+certifi==2021.5.30
+cffi==1.14.5
+chardet==4.0.0
+coincurve==15.0.0
+idna==2.10
+pycparser==2.20
+requests==2.25.1
+urllib3==1.26.5
